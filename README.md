@@ -2,7 +2,7 @@
 > A complete authentication app with login, logout, register, forget password, email verification(for added security), and access control. Can be used as starter for other Node.JS applications. using Node.js, Express, Passport, JWT, Mongoose, and more. 
 
 ## Web App Link
-https://nodejs-authi.herokuapp.com/
+https://nodejs-auth00.herokuapp.com/
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/49118089/90341145-b776a900-e01a-11ea-93c8-4f6864a141c1.png)
 
@@ -26,11 +26,11 @@ https://nodejs-authi.herokuapp.com/
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/Atish-K/Node_js_Auth.git`
+`git clone https://github.com/sadaab2784/NodeJsAuth.git`
 
 ##### Into the project directory
 
-`cd nodejs-auth`
+`cd Node_js_Auth`
 
 ##### Installing NPM dependencies
 
