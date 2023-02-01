@@ -4,7 +4,7 @@
 ## Web App Link
 https://nodejs-auth00.herokuapp.com/
 
-![Screenshot (4)](assets/project.png)
+![project](https://user-images.githubusercontent.com/106314415/215969276-45aa15aa-f4b0-4b6a-bb2a-ac0e210db22c.png)
 
 ## Technologies Used
 1.  NodeJS
